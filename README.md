@@ -10,6 +10,7 @@ The folder structure is the following:
     ├── Regression              # Code for the first Coursera course in the specialization
     ├── Classification          # Code for my development of various classification algorithms
     ├── Clustering              # Code for my development of various clustering algorithms
+    ├── Tutorials               # Code for tutorials I have followed along.
     └── README.md
 
 ## Programming Language
