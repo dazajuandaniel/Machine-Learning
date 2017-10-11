@@ -11,6 +11,7 @@ The folder structure is the following:
     ├── Classification          # Code for my development of various classification algorithms
     ├── Clustering              # Code for my development of various clustering algorithms
     ├── Tutorials               # Code for tutorials I have followed along.
+    ├── Deep Learning           # Code for Deep Learning projects. Focused mainly on Tensorflow and/or Keras
     └── README.md
 
 ## Programming Language
