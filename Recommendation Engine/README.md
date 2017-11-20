@@ -11,6 +11,6 @@ This project is my attempt to create a Recommendation Engine in Python by using 
 
 ## References
 
-[Tensorflow-based Recommendation systems](https://github.com/songgc/TF-recomm)
-[Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](http://www.cs.rochester.edu/twiki/pub/Main/HarpSeminar/Factorization_Meets_the_Neighborhood-_a_Multifaceted_Collaborative_Filtering_Model.pdf)
-[List of Papers](https://github.com/dazajuandaniel/Deep-Learning-for-Recommendation-Systems)
+* [Tensorflow-based Recommendation systems](https://github.com/songgc/TF-recomm)
+* [Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model](http://www.cs.rochester.edu/twiki/pub/Main/HarpSeminar/Factorization_Meets_the_Neighborhood-_a_Multifaceted_Collaborative_Filtering_Model.pdf)
+* [List of Papers](https://github.com/dazajuandaniel/Deep-Learning-for-Recommendation-Systems)
